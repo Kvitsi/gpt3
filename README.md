@@ -1,6 +1,6 @@
 # GPT3-Imaginary-Website
 
-![Project Screenshot](gpt3/src/assets/gpt3-screenshot.png)
+![Project Screenshot](src/assets/gpt3-screenshot.png)
 
 ## Overview
 
