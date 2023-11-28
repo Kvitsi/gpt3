@@ -23,8 +23,8 @@ This project is a front-end implementation of an imaginary website showcasing GP
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/gpt3-imaginary-website.git`
-2. Navigate to the project directory: `cd gpt3-imaginary-website`
+1. Clone the repository: `git clone https://github.com/kvitsi/gpt3.git`
+2. Navigate to the project directory: `cd gpt3`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to view the project locally.
