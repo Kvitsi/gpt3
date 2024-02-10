@@ -41,3 +41,11 @@ The project is deployed on Netlify. Any changes pushed to the `main` branch will
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
+## Contact
+
+Feel free to reach out with any questions or feedback:
+
+- Email: kvitsianinika@gmail.com
+- Twitter: [Kvitsianinika](https://twitter.com/Kvitsianinika)
+- LinkedIn: [Nika Kvitsiani](https://www.linkedin.com/in/nika-kvitsiani/)
